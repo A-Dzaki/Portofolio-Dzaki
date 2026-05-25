@@ -356,7 +356,7 @@
                         </div>
 
                         <a href="https://demo-web-absensi-giki.vercel.app" target="_blank"
-                            class="w-full inline-block text-center px-4 py-2 bg-slate-700 rounded-lg hover:bg-slate-600 transition font-semibold text-sm text-slate-300 cursor-not-allowed">
+                            class="w-full inline-block text-center px-4 py-2 bg-slate-700 rounded-lg hover:bg-slate-600 transition font-semibold text-sm text-slate-300 ">
                             Kunjungi Project
                         </a>
                     </div>
