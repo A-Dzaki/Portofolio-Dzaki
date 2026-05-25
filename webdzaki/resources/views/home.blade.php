@@ -367,7 +367,7 @@
                     class="project-card bg-slate-800 rounded-2xl overflow-hidden border border-slate-700 hover:border-blue-500">
                     <div
                         class="relative h-48 bg-gradient-to-br from-blue-600 to-blue-800 flex items-center justify-center">
-                        <img src="{{ asset('assets/ComingSoon.png') }}" alt="ComingSoon"
+                        <img src="{{ asset('assets/CoomingSoon.png') }}" alt="ComingSoon"
                             class="w-full h-full object-cover">
                     </div>
                     <div class="p-6">
