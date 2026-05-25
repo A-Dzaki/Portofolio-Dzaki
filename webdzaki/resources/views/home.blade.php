@@ -339,26 +339,25 @@
                 <div
                     class="project-card bg-slate-800 rounded-2xl overflow-hidden border border-slate-700 hover:border-blue-500">
                     <div
-                        class="relative h-48 bg-gradient-to-br from-cyan-600 to-blue-800 flex items-center justify-center">
-                        <div class="text-6xl">📱</div>
+                        class="relative h-48 bg-gradient-to-br from-blue-600 to-blue-800 flex items-center justify-center">
+                        <img src="{{ asset('assets/webgiki.png') }}" alt="WebGiki" class="w-full h-full object-cover">
                     </div>
                     <div class="p-6">
-                        <h3 class="text-2xl font-bold mb-2 text-cyan-400">E-Commerce Platform</h3>
-                        <p class="text-slate-400 text-sm mb-4">Platform e-commerce lengkap dengan sistem pembayaran dan
-                            dashboard admin.</p>
+                        <h3 class="text-2xl font-bold mb-2 text-cyan-400">Web Absensi Smp 2 Giki Surabaya</h3>
+                        <p class="text-slate-400 text-sm mb-4">Platform absensi siswa untuk SMP 2 Giki Surabaya.</p>
 
                         <div class="flex flex-wrap gap-2 mb-6">
                             <span
                                 class="px-3 py-1 text-xs rounded-full bg-cyan-500/20 text-cyan-300 font-medium">Laravel</span>
                             <span
-                                class="px-3 py-1 text-xs rounded-full bg-cyan-500/20 text-cyan-300 font-medium">React</span>
+                                class="px-3 py-1 text-xs rounded-full bg-cyan-500/20 text-cyan-300 font-medium">Bootstrap</span>
                             <span
                                 class="px-3 py-1 text-xs rounded-full bg-cyan-500/20 text-cyan-300 font-medium">MySQL</span>
                         </div>
 
-                        <a href="#"
+                        <a href="https://demo-web-absensi-giki.vercel.app" target="_blank"
                             class="w-full inline-block text-center px-4 py-2 bg-slate-700 rounded-lg hover:bg-slate-600 transition font-semibold text-sm text-slate-300 cursor-not-allowed">
-                            Coming Soon 🚀
+                            Kunjungi Project
                         </a>
                     </div>
                 </div>
@@ -367,23 +366,13 @@
                 <div
                     class="project-card bg-slate-800 rounded-2xl overflow-hidden border border-slate-700 hover:border-blue-500">
                     <div
-                        class="relative h-48 bg-gradient-to-br from-purple-600 to-pink-600 flex items-center justify-center">
-                        <div class="text-6xl">📊</div>
+                        class="relative h-48 bg-gradient-to-br from-blue-600 to-blue-800 flex items-center justify-center">
+                        <img src="{{ asset('assets/ComingSoon.png') }}" alt="ComingSoon"
+                            class="w-full h-full object-cover">
                     </div>
                     <div class="p-6">
-                        <h3 class="text-2xl font-bold mb-2 text-purple-400">Analytics Dashboard</h3>
-                        <p class="text-slate-400 text-sm mb-4">Dashboard analytics real-time dengan visualisasi data
-                            menggunakan chart library.</p>
-
-                        <div class="flex flex-wrap gap-2 mb-6">
-                            <span
-                                class="px-3 py-1 text-xs rounded-full bg-purple-500/20 text-purple-300 font-medium">React</span>
-                            <span
-                                class="px-3 py-1 text-xs rounded-full bg-purple-500/20 text-purple-300 font-medium">Chart.js</span>
-                            <span
-                                class="px-3 py-1 text-xs rounded-full bg-purple-500/20 text-purple-300 font-medium">Node.js</span>
-                        </div>
-
+                        <h3 class="text-2xl font-bold mb-2 text-purple-400">Coming Soon</h3>
+                        <p class="text-slate-400 text-sm mb-4">Project ini sedang dalam pengembangan.</p>
                         <a href="#"
                             class="w-full inline-block text-center px-4 py-2 bg-slate-700 rounded-lg hover:bg-slate-600 transition font-semibold text-sm text-slate-300 cursor-not-allowed">
                             Coming Soon 🚀
