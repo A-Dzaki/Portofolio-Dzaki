@@ -5,6 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Portfolio Ahmad Dzaki Zayyan - Web Developer & IT Student">
+
     <title>Ahmad Dzaki - Portfolio | Web Developer</title>
     @vite(['resources/css/app.css', 'resources/js/app.js'])
 
@@ -140,7 +141,7 @@
                     class="text-slate-400 hover:text-blue-400 transition text-lg">
                     GitHub
                 </a>
-                <a href="https://linkedin.com" target="_blank"
+                <a href="https://www.linkedin.com/in/ahmad-dzaki-zayyan-sugianto-74869a295" target="_blank"
                     class="text-slate-400 hover:text-blue-400 transition text-lg">
                     LinkedIn
                 </a>
@@ -414,7 +415,7 @@
                 </a>
 
                 <!-- LinkedIn Card -->
-                <a href="https://linkedin.com" target="_blank"
+                <a href="www.linkedin.com/in/ahmad-dzaki-zayyan-sugianto-74869a295" target="_blank"
                     class="group bg-slate-900 border border-slate-800 rounded-2xl p-8 hover:border-cyan-500 transition hover:shadow-lg hover:shadow-cyan-500/20">
                     <div class="w-20 h-20 bg-white rounded-2xl flex items-center justify-center shadow-lg">
                         <img src="{{ asset('assets/linkedin.png') }}" alt="LinkedIn Icon"
@@ -463,7 +464,7 @@
                     <ul class="space-y-2 text-sm">
                         <li><a href="https://github.com/A-Dzaki" target="_blank"
                                 class="hover:text-blue-400 transition">GitHub</a></li>
-                        <li><a href="https://linkedin.com" target="_blank"
+                        <li><a href="https://www.linkedin.com/in/ahmad-dzaki-zayyan-sugianto-74869a295" target="_blank"
                                 class="hover:text-blue-400 transition">LinkedIn</a></li>
 
                     </ul>
