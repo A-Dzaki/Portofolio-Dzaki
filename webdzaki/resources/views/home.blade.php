@@ -429,7 +429,7 @@
                 <!-- Email Card -->
                 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=dzakiahmad005@gmail.com" target="_blank"
                     rel="noopener noreferrer"
-                    class="group bg-slate-900 border border-slate-800 rounded-2xl p-8 hover:border-purple-500 transition hover:shadow-lg hover:shadow-purple-500/20">
+                    class="group min-h-[260px] bg-slate-900 border border-slate-800 rounded-2xl p-8 hover:border-cyan-500 transition hover:shadow-lg hover:shadow-cyan-500/20">
                     <div class="w-20 h-20 bg-white rounded-2xl flex items-center justify-center shadow-lg">
                         <img src="{{ asset('assets/gmail.png') }}" alt="Email Icon" class="w-10 h-10 object-contain">
                     </div>
